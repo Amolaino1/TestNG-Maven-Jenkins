@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-19T00:16:46Z" name="Default suite" finished-at="2019-10-19T00:16:52Z" duration-ms="5772">
+    <groups>
+    </groups>
+    <test started-at="2019-10-19T00:16:46Z" name="Default test" finished-at="2019-10-19T00:16:52Z" duration-ms="5772">
+      <class name="testcases.reg_testcase1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.reg_testcase1@50a7bc6e]" started-at="2019-10-18T20:16:46Z" name="setUp" finished-at="2019-10-18T20:16:49Z" duration-ms="2898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateHomePageTitle()[pri:1, instance:testcases.reg_testcase1@50a7bc6e]" started-at="2019-10-18T20:16:49Z" name="validateHomePageTitle" finished-at="2019-10-18T20:16:50Z" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitle -->
+        <test-method signature="login()[pri:2, instance:testcases.reg_testcase1@50a7bc6e]" started-at="2019-10-18T20:16:50Z" name="login" finished-at="2019-10-18T20:16:52Z" duration-ms="1340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.reg_testcase1@50a7bc6e]" started-at="2019-10-18T20:16:52Z" name="tearDown" finished-at="2019-10-18T20:16:52Z" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.reg_testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

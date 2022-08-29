@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sanity Test Suite">
+  <test name="Login validation Test">
+    <classes>
+      <class name="testcases.sanity_testcase1"/>
+      <class name="testcases.sanity_testcase2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
